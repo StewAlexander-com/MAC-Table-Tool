@@ -1,6 +1,6 @@
 # MAC-Table-Tool
 Finds all the vendors in a MAC table, and then displays the MAC address, port #, and Vendor name, saves this
-info to a CSV file for easy review by your favorite spreadsheet app 😀
+info to a CSV file for easy review by your favorite spreadsheet app 
 ## Input
 * Needs a MAC hardware address table in a text file
 
