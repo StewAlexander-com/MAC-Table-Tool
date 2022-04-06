@@ -17,5 +17,7 @@ info to a CSV file for easy review by your favorite spreadsheet app
 ## Output of the csv file
 ![image](https://user-images.githubusercontent.com/48565067/162002645-ba668815-da39-4cfb-a759-9b08d12e74c9.png)
 
-##Updates
+## Updates
 * Now has colors (as of 04/06/2022)
+---
+## This app is free❗
