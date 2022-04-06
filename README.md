@@ -15,7 +15,7 @@ info to a CSV file for easy review by your favorite spreadsheet app
 ![image](https://user-images.githubusercontent.com/48565067/162002198-bc4a35d0-a86b-40ba-a6d5-114cbd068e2e.png)
 
 ## Output of the csv file
-![image](https://user-images.githubusercontent.com/48565067/161636012-9f4f772f-2ba3-4bb8-b0ec-59de5cfac36a.png)
+![image](https://user-images.githubusercontent.com/48565067/162002645-ba668815-da39-4cfb-a759-9b08d12e74c9.png)
 
 ##Updates
 * Now has colors (as of 04/06/2022)
