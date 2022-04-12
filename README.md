@@ -18,6 +18,7 @@ info to a CSV file for easy review by your favorite spreadsheet app
 ![image](https://user-images.githubusercontent.com/48565067/162002645-ba668815-da39-4cfb-a759-9b08d12e74c9.png)
 
 ## Updates
+* Now works better in low memory situations (04/11/2022)
 * Now has colors (as of 04/06/2022)
 ---
 ## This app is free❗
