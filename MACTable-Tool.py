@@ -4,7 +4,6 @@ import os
 import sys
 import subprocess
 import time
-from turtle import width
 
 #if the library requests is not installed, install it via pip
 try:
