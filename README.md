@@ -18,6 +18,7 @@ info to a CSV file for easy review by your favorite spreadsheet app
 ![image](https://user-images.githubusercontent.com/48565067/162002645-ba668815-da39-4cfb-a759-9b08d12e74c9.png)
 
 ## Updates
+* Added an intro (04/20/2022)
 * Bug fix (04/14/2022)
 * Now works with large IP ARP tables also (04/13/2022)
 * Now works better in low memory situations (04/11/2022)
