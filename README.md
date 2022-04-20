@@ -9,7 +9,7 @@ info to a CSV file for easy review by your favorite spreadsheet app
 * Uses Python 3.x
 
 ## Output
-![image](https://user-images.githubusercontent.com/48565067/162001482-8df8d4b4-2569-48ea-acdc-36fd29f78936.png)
+![image](https://user-images.githubusercontent.com/48565067/164297794-dead3714-fd25-4d17-94bf-f99d7c87dd21.png)
 ![image](https://user-images.githubusercontent.com/48565067/162001707-01d6f276-f112-426d-a2e4-f5eff30ff2b1.png)
 ![image](https://user-images.githubusercontent.com/48565067/162002060-69c14a98-5e47-426e-9aaa-b0f4f8ba9a88.png)
 ![image](https://user-images.githubusercontent.com/48565067/162002198-bc4a35d0-a86b-40ba-a6d5-114cbd068e2e.png)
