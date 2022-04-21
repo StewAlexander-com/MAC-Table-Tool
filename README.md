@@ -11,13 +11,14 @@ info to a CSV file for easy review by your favorite spreadsheet app
 ## Output
 ![image](https://user-images.githubusercontent.com/48565067/164480093-a948553d-865a-45c4-a9c9-cae55a4f8f43.png)
 ![image](https://user-images.githubusercontent.com/48565067/164480372-5e43f0f9-cb59-477c-830c-7e11a8424dd3.png)
-![image](https://user-images.githubusercontent.com/48565067/162002060-69c14a98-5e47-426e-9aaa-b0f4f8ba9a88.png)
+![image](https://user-images.githubusercontent.com/48565067/164480899-ddf52d5f-5e1d-4b75-bc79-bc4685f8f6d6.png)<br>
 ![image](https://user-images.githubusercontent.com/48565067/162002198-bc4a35d0-a86b-40ba-a6d5-114cbd068e2e.png)
 
 ## Output of the csv file
 ![image](https://user-images.githubusercontent.com/48565067/162002645-ba668815-da39-4cfb-a759-9b08d12e74c9.png)
 
 ## Updates
+* Adds name as a banner (see output)
 * Now uses the tabular library to print the first 25 rows of the CSV file to the screen (04/20/2022)
 * Added an intro (04/20/2022)
 * Bug fix (04/14/2022)
