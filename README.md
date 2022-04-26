@@ -18,6 +18,7 @@ info to a CSV file for easy review by your favorite spreadsheet app
 ![image](https://user-images.githubusercontent.com/48565067/162002645-ba668815-da39-4cfb-a759-9b08d12e74c9.png)
 
 ## Updates
+* Screen output now shows more relevant rows (04/26/2022)
 * Adds name as a banner (see output)
 * Now uses the tabular library to print the first 25 rows of the CSV file to the screen (04/20/2022)
 * Added an intro (04/20/2022)
